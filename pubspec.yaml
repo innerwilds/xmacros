@@ -1,0 +1,14 @@
+name: xmacros
+description: A macros helpers
+version: 1.0.0
+repository: https://github.com/innerwilds/xmacros
+
+environment:
+  sdk: ^3.6.0-146.0.dev
+
+dependencies:
+  macros: ^0.1.2-main.4
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
